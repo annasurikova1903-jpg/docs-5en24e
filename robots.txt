@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-s4tsv6.digitician.com.au/sitemap.xml
